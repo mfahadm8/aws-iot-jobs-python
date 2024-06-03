@@ -1,0 +1,10 @@
+{
+  "operation": "upload-files",
+  "sources": [
+    {
+      "bucket": "BUCKET",
+      "filename": "AmazonRootCA1.pem",
+      "prefix": "upload"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+    "operation": "pull-container-images",
+    "images": [
+        {
+            "region": "<ECR-REGION>",
+            "accountNumber": "<ACCOUNT-NUMBER>",
+            "image": "bfirsh/reticulate-splines",
+            "version": "latest"
+        }
+    ]
+}
