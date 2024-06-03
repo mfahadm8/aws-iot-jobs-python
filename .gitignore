@@ -104,13 +104,13 @@ venv.bak/
 .mypy_cache/
 
 # AWS certs and keys
-*.pem
+
 *.key
 *.crt
 
 # Other
-config.json
+# config.json
 deploy.sh
 c9_bootstrap_lambda/package/
-aws-iot-jobs-python.yaml
+# aws-iot-jobs-python.yaml
 .editorconfig

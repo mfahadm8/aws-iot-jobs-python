@@ -1,0 +1,14 @@
+{
+  "thingName": "<THING-NAME>",
+  "thingArn": "<THING-ARN>",
+  "region": "<REGION>",
+  "deviceCertificatePath": "",
+  "privateKeyPath": "",
+  "rootCaPath": "",
+  "endpoint": "<ENDPOINT>",
+  "credentialsEndpoint": "<CREDENTIAL-ENDPOINT-PREFIX>",
+  "roleAlias": "aws-iot-jobs-python",
+  "useWebsocket": "false",
+  "port": 8883,
+  "s3Bucket": "wow"
+}
